@@ -6,8 +6,8 @@ a multi-section landing page, with a dynamically updating navigational menu base
 ## Table of Contents
 
 * [Instructions](#instructions)
-* [Project description](#project description)
-* [Technologies used](#technologies used)
+* [Project description](#projectdescription)
+* [Technologies used](#technologiesused)
 
 
 ## Instructions
