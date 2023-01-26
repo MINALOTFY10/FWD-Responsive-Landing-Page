@@ -27,4 +27,4 @@ HTML, CSS, JavaScript
 |:-------------------------:|:-------------------------:|
 |<img src="https://user-images.githubusercontent.com/99563220/214886348-44b1120e-3ee7-4094-ab1e-b154ccf9ae90.png" />|
 |<img src="https://user-images.githubusercontent.com/99563220/214887723-7251c373-5fdc-4cf2-9781-0e0457dbf6e9.png" />|
-|<img src="https://user-images.githubusercontent.com/99563220/214887839-d81f6357-af14-4734-8517-f97b742cc2b4.png" width="300" height="400"/>|
+|<img src="https://user-images.githubusercontent.com/99563220/214887839-d81f6357-af14-4734-8517-f97b742cc2b4.png" width="300" height="500"/>|
