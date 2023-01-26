@@ -21,6 +21,4 @@ HTML, CSS, JavaScript
 
 
 ## Images
-| | | 
-|:-------------------------:|:-------------------------:|
 |<img src="https://user-images.githubusercontent.com/99563220/214886348-44b1120e-3ee7-4094-ab1e-b154ccf9ae90.png" width="300" height="600" />|
